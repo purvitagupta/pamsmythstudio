@@ -1,0 +1,358 @@
+
+@media screen and (max-width: 767px) {
+nav {
+	margin-top: 0px;
+}
+.node-type-artist .field-item > img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.node-type-page .get-in-touch .get_back > img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+.node-type-page .content {
+	margin-left: 0;
+	
+}
+.node-type-artist .field-name-body .field-items p {
+	float: none;
+}
+.node-type-watercolors .content {
+	margin-top: 260px;
+	margin-left: 15px;
+	margin-right: 25px;
+}
+.node-type-printmaking .content {
+	margin-top: 265px;
+	margin-left: 15px;
+	margin-right: 25px;
+}
+.node-type-page .get-in-touch .get_back > img {
+	width: 236px!important;
+	display:none;
+}
+.node-type-artist .content {
+	margin-left: 14px;
+	margin-top: 0px;
+	width: 83%;
+}
+.node-type-drawings .content {
+	margin-left: 3px;
+	margin-top: 265px;
+	margin-right: 25px;
+}
+.get_call {
+	width: 100%;
+}
+.get_address {
+	width: 100%;
+}
+.jumbotron h1 {
+	font-size: 28px;
+}
+.get_img {
+	display: none;
+	float: left;
+	margin-left: 3px;
+}
+.page-node-18 #top-container {
+	position: fixed;
+}
+.front-block-title {
+	margin-top: 0;
+	padding-top: 0;
+}
+.node-type-watercolors .field-item > img {
+	height: auto;
+}
+.node-type-printmaking .field-item > img {
+	height: auto;
+}
+.node-type-drawings .field-item > img {
+	height: auto;
+}
+.block-taxonomy-menu .item-list{display:none;}
+.page-node-18 .responsive-menus.responsified{display:none;}
+
+.masonry-item:first-child{height:0px;} 
+}
+
+@media screen and (min-device-width: 340px) and (max-device-width: 640px) {
+.main-container .region-content {
+	margin: 0 auto;
+	width: 300px;
+}
+}
+
+@media screen and (min-device-width: 641px) and (max-device-width: 991px) {
+.main-container .region-content {
+	margin: 0 auto;
+	width: 580px;
+}
+}
+
+@media screen and (min-device-width: 992px) and (max-device-width: 1199px) {
+.main-container .region-content {
+	margin: 0 auto;
+	width: 850px;
+}
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 880px) {
+#top-container {
+	width: 100%;
+}
+
+.block-taxonomy-menu .item-list ul li {
+	margin-left: 15px;
+}
+
+.block-taxonomy-menu .item-list ul li{margin-right:5px;}
+}
+
+@media screen and (max-width: 1024px) {
+.node-type-artist .field-name-body .field-items p {
+	float: none;
+	font-size: 18px;
+}
+.node-type-drawings .field-item > img {
+	display: block;
+	max-width: 100%;
+}
+}
+
+@media screen and (min-device-width: 480px) and (max-device-width: 1024px) {
+.get_call {
+	width: 93%;
+}
+.get_address {
+	width: 93%;
+}
+.node-type-watercolors .content {
+	margin-top: 0px;
+}
+.node-type-drawings .content {
+	margin-top: 0px;
+}
+.node-type-printmaking .content {
+	margin-top: 0px;
+}
+}
+
+@media screen and (max-width: 320px) {
+.node-type-drawings .content {
+	margin-right: 15px!important;
+	margin-top: 0px;
+}
+.node-type-watercolors .content {
+	margin-right: 15px!important;
+	margin-top: 0px;
+}
+.node-type-printmaking .content {
+	margin-right: 15px!important;
+	margin-top: 0px;
+}
+.get_img {
+	margin-left: none;
+}
+.node-type-page .content {
+	margin-top: 0px;
+}
+.node-type-page .get_img {
+	margin-top: 0px;
+}
+.get_call {
+	margin-left: 3px;
+	width: 98%!important;
+}
+.get_address {
+	margin-left: 3px;
+	width: 98%!important;
+}
+/**/
+}
+
+
+
+@media screen and (max-width: 317px) {
+.contact-img.get_img{display:none;}
+.front-block-categoryone a{font-size:1.1em;}
+.front-block-categoryone{margin-top:0;}
+.front-block-title a{font-size:57px;}
+}
+
+@media screen  and (min-device-width: 320px) and (max-device-width: 479px) {
+.page-watercolors #block-system-main .get_back{margin-right:0em;}
+.page-hand-pulled-prints #block-system-main .get_back{margin-right:0em;}	
+.page-hand-pulled-prints #block-system-main .get_back{margin-right:0em;}
+
+.page-genre-watercolors	#block-system-main .get_back{margin-right:0em;}
+}
+
+
+
+
+@media screen and (min-width: 220px) and (max-width: 950px) {
+body {
+	background-image: url("../images/main-base-vert.jpg");
+	background-attachment:fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	min-height: 100%;
+	min-width: 100%;
+	overflow-y: auto;
+	position: relative;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	
+	
+}
+#top-container{
+background:none;
+}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 680px) {
+.main-container .region-content {
+	width: 100%;
+}
+.masonry-item {
+	width: 50%;
+	float: left;
+}
+.masonry-item img {
+	width: 100%;
+}
+
+
+.page-genre-watercolors .main-container .region-content {
+	width: 100%;
+}
+
+.page-genre-watercolors .masonry-item{
+	width: 48%;
+	float: left;}
+	
+.page-genre-watercolors  .masonry-item img {
+	width: 100%;
+}
+
+.page-genre-drawings .main-container .region-content {
+	width: 100%;
+}
+
+.page-genre-drawings .masonry-item{
+	width: 48%;
+	float: left;}
+	
+.page-genre-drawings .masonry-item img {
+	width: 100%;
+}
+
+
+.node-type-watercolors .field-item > img {
+	height: auto;
+}
+.node-type-printmaking .field-item > img {
+	height: auto;
+}
+.node-type-drawings .field-item > img {
+	height: auto;
+}
+.node-type-page .front-block-categoryone{margin-top:0;}
+.node-type-page .main-container .region-content{ bottom: 35px;
+    position: relative;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 680px) {
+
+.node-type-page .content{margin-top:0px;}	
+.get_img{margin-top:0px;margin-left:0px;}
+.node-type-page .get-in-touch .get_back > img{width: 519px!important;}
+.get_call{width:100%;}
+.get_address{width:100%;}
+.node-type-artist .content{margin-top:0px;margin-left: 43px;}
+.block-taxonomy-menu .item-list ul li{ margin-right: 6px;}	
+.block-taxonomy-menu .item-list{display:none;}
+
+ @media only screen and (min-width: 320px) and (max-width: 480px) {
+.page-node-18 .responsive-menus.responsified {
+	display: none;
+}
+.block-taxonomy-menu .item-list ul {
+	width: 100%;
+	float: right;
+}
+.block-taxonomy-menu .item-list ul li {
+	font-size: 19px;margin-left: 10px;
+	margin-right: 12px;
+}
+.block-taxonomy-menu .views-row.views-row-4.views-row-even {
+	margin-left: 5px;
+}
+.page-watercolors .leaf.active-trail {
+	display: none !important;
+}
+.page-drawings .leaf.active-trail {
+	display: none !important;
+}
+.page-hand-pulled-prints .leaf.active-trail {
+	display: none !important;
+}
+.node-type-artist .content {
+	width: 85.5%!important;
+	margin-top: 0px;
+	margin-left: 15px!important;
+}
+.get_img {
+	margin-top: 0px;
+}
+.node-type-page .content {
+	margin-top: 35px;
+}
+.get_call {
+	margin-left: 3px;
+	width: 94%;
+}
+.get_address {
+	margin-left: 3px;
+	width: 94%;
+}
+.node-type-drawings .content {
+	margin-top: 0px;
+}
+.node-type-printmaking .content {
+	margin-top: 0px;
+}
+.node-type-watercolors .content {
+	margin-top: 0px;
+}
+.block-taxonomy-menu .item-list{display:none;}
+
+.contact-img.get_img{display:none;}
+
+-->
+/*.block.block-system.get_back.blank-img-menu.block-menu.clearfix{display:none;}*/	
+
+}
+ @media screen and (min-width: 481px) {
+.responsive-menus.responsive-menus-0-0.absolute {
+/*display:none;*/
+}
+.responsive-menus.responsified .responsive-menus-simple li a {
+background:#92b4c3;
+}
+}
+
+@media only screen and (min-width: 340px) and (max-width: 480px) {
+.node-type-page .get-in-touch .get_back > img{width: 401px!important;}
+.get_call{width:100%;margin-left:0px;}
+.get_address{width:100%;margin-left:0px;}}
+
+
+
